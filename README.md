@@ -6,6 +6,9 @@ A fast, dependency‑free, terminal-inspired portfolio. Type commands like `help
 
 - Coming soon — add your Vercel link here
 
+<img width="1920" height="969" alt="image" src="https://github.com/user-attachments/assets/9f63a7a1-9ed9-41a6-83c5-0e486820cf42" />
+
+
 ### Features
 
 - Zero frameworks: plain HTML + CSS + vanilla JS for instant load
@@ -82,5 +85,6 @@ A minimal, dependency-free, command line style portfolio. Edit `content.js` to u
 ### Deploy
 
 - Drag the folder to any static host. For Vercel, select this directory and deploy.
+
 
 
